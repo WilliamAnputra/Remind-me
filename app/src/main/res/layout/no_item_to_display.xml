@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_drop_back"
+    android:gravity="center"
+    android:paddingBottom="@dimen/tv_noitems_vertical_padding"
+    android:paddingTop="@dimen/tv_no_items_vertical_padding"
+    android:text="@string/str_no_items">
+
+</TextView>

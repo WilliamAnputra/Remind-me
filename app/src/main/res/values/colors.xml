@@ -3,4 +3,14 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <color name="bg_drop_row_dark">#4A8E79BB</color>
+    <color name="bg_row_drop_light">#BD8E79BB</color>
+    <color name="dark_blue">#DF4713B6</color>
+    <color name="bg_dialog">#E30D0028</color>
+    <color name="transparent">#00000000</color>
+    <color name="black">#000000</color>
+    <color name="green">#12f96e</color>
+    <color name="purple">#ab0af1</color>
+
 </resources>
